@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/components/comp.css", "../src/style.css"],
+  "sourcesContent": ["ul{\n  list-style: none;\n}\nli{\n  border:1px solid #666;\n  margin: 8px;\n}", "body{\n  color:#000;\n  font-size: 26px;\n}\n.title{\n  color: blue;\n  font-size: 40px;\n}"],
+  "mappings": ";AAAA;AACE,cAAY;AACd;AACA;AACE,UAAO,IAAI,MAAM;AACjB,UAAQ;AACV;;;ACNA;AACE,SAAM;AACN,aAAW;AACb;AACA,CAAC;AACC,SAAO;AACP,aAAW;AACb;",
+  "names": []
+}

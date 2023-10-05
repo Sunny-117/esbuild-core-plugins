@@ -1,0 +1,19 @@
+/* src/components/comp.css */
+ul {
+  list-style: none;
+}
+li {
+  border: 1px solid #666;
+  margin: 8px;
+}
+
+/* src/style.css */
+body {
+  color: #000;
+  font-size: 26px;
+}
+.title {
+  color: blue;
+  font-size: 40px;
+}
+/*# sourceMappingURL=/App.css.map */

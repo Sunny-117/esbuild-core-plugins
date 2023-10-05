@@ -1,0 +1,28 @@
+{
+    "name": "esbuild-plugin-time",
+    "version": "1.0.0",
+    "description": "a time plugin for esbuild",
+    "main": "./src/index.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DasRed/esbuild-plugin-time.git"
+    },
+    "author": "Marco Starker",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DasRed/esbuild-plugin-time/issues"
+    },
+    "files": [
+        "/src/*"
+    ],
+    "homepage": "https://github.com/DasRed/esbuild-plugin-time#readme",
+    "keywords": [
+        "esbuild",
+        "plugin",
+        "time"
+    ],
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}
